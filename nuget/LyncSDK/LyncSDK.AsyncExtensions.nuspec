@@ -4,6 +4,7 @@
         <id>LyncSDK.AsyncExtensions</id>
         <version>1.0.0</version>
         <authors>Alexey Sosnin</authors>
+        <projectUrl>https://github.com/Ne4to/LyncAsyncExtensions</projectUrl>
         <requireLicenseAcceptance>false</requireLicenseAcceptance>
         <description>Extension methods to convert old asynchronous programming model (APM), the pairs of begin/end methods to new TPL async/await Task base methods.</description>
         <tags>Lync async Task TPL</tags>
