@@ -10,7 +10,7 @@
         <tags>Lync async Task TPL</tags>
     </metadata>
     <files>
-        <file src="..\..\src\LyncSDK\Desktop\Microsoft.Lync.Model.AsyncExtensions.cs.pp" target="content\net45\Microsoft.Lync.Model.AsyncExtensions.cs.pp" />
-        <file src="..\..\src\LyncSDK\Silverlight\Microsoft.Lync.Model.AsyncExtensions.cs.pp" target="content\sl50\Microsoft.Lync.Model.AsyncExtensions.cs.pp" />
+        <file src="..\..\src\dlls\LyncSDK.AsyncExtensions.Desktop\bin\Release\LyncSDK.AsyncExtensions.Desktop.dll" target="lib\net45\LyncSDK.AsyncExtensions.Desktop.dll" />
+        <file src="..\..\src\dlls\LyncSDK.AsyncExtensions.Silverlight\Bin\Release\LyncSDK.AsyncExtensions.Silverlight.dll" target="lib\sl50\LyncSDK.AsyncExtensions.Silverlight.dll" />
     </files>
 </package>

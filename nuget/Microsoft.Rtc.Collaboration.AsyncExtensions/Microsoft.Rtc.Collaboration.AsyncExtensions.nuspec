@@ -10,6 +10,6 @@
         <tags>Lync async Task TPL</tags>
     </metadata>
     <files>
-        <file src="..\..\src\Microsoft.Rtc.Collaboration\Microsoft.Rtc.Collaboration.AsyncExtensions.cs.pp" target="content\net45\Microsoft.Rtc.Collaboration.AsyncExtensions.cs.pp" />        
+        <file src="..\..\src\dlls\Microsoft.Rtc.Collaboration.AsyncExtensions\bin\Release\Microsoft.Rtc.Collaboration.AsyncExtensions.dll" target="lib\net45\Microsoft.Rtc.Collaboration.AsyncExtensions.dll" />
     </files>
 </package>
