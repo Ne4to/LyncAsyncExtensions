@@ -10,7 +10,6 @@
 [Dd]ebug/
 [Dd]ebugPublic/
 [Rr]elease/
-x64/
 build/
 bld/
 [Bb]in/
@@ -187,3 +186,5 @@ FakesAssemblies/
 GeneratedArtifacts/
 _Pvt_Extensions/
 ModelManifest.xml
+/nuget/packages
+/src
