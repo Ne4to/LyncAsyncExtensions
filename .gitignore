@@ -187,4 +187,6 @@ GeneratedArtifacts/
 _Pvt_Extensions/
 ModelManifest.xml
 /nuget/packages
-/src
+/src/dlls/packages/Microsoft.Bcl.1.1.8
+/src/dlls/packages/Microsoft.Bcl.Async.1.0.168
+/src/dlls/packages/Microsoft.Bcl.Build.1.0.14
