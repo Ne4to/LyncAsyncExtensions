@@ -2,12 +2,14 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
     <metadata>
         <id>Microsoft.Rtc.Collaboration.AsyncExtensions</id>
-        <version>1.0.0</version>
+        <title>UCMA 4.0 Async Extensions</title>
+        <version>1.0.2</version>
         <authors>Alexey Sosnin</authors>
         <projectUrl>https://github.com/Ne4to/LyncAsyncExtensions</projectUrl>
         <requireLicenseAcceptance>false</requireLicenseAcceptance>
         <description>Extension methods to convert old asynchronous programming model (APM), the pairs of begin/end methods to new TPL async/await Task base methods.</description>
         <tags>Lync async Task TPL</tags>
+        <license type="expression">MIT</license>
     </metadata>
     <files>
         <file src="..\..\src\dlls\Microsoft.Rtc.Collaboration.AsyncExtensions\bin\Release\Microsoft.Rtc.Collaboration.AsyncExtensions.dll" target="lib\net45\Microsoft.Rtc.Collaboration.AsyncExtensions.dll" />

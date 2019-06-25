@@ -2,12 +2,14 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
     <metadata>
         <id>LyncSDK.AsyncExtensions</id>
-        <version>1.0.0</version>
+        <title>Lync SDK Async Extensions</title>
+        <version>1.0.2</version>
         <authors>Alexey Sosnin</authors>
         <projectUrl>https://github.com/Ne4to/LyncAsyncExtensions</projectUrl>
         <requireLicenseAcceptance>false</requireLicenseAcceptance>
         <description>Extension methods to convert old asynchronous programming model (APM), the pairs of begin/end methods to new TPL async/await Task base methods.</description>
         <tags>Lync async Task TPL</tags>
+        <license type="expression">MIT</license>
     </metadata>
     <files>
         <file src="..\..\src\dlls\LyncSDK.AsyncExtensions.Desktop\bin\Release\LyncSDK.AsyncExtensions.Desktop.dll" target="lib\net45\LyncSDK.AsyncExtensions.Desktop.dll" />
